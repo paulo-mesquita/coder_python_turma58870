@@ -1,5 +1,5 @@
 # Curso de Python da CODERHOUSE
-
+<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/coder_python_turma58870/main/meme/revert_commit_meme.jpg" alt="badge" />
 Este repositório contém materiais, aulas e atividades relacionadas ao curso de Python oferecido pela CODERHOUSE. Aqui você encontrará recursos para aprender e praticar Python, desde conceitos básicos até tópicos mais avançados de acordo com minha evolução durante o curso.
 
 ## Conteúdo
@@ -24,4 +24,4 @@ Se você deseja contribuir com este repositório, siga estas etapas:
 4. Envie um pull request.
 
 Vamos aprender Python juntos! 🐍
-<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/coder_python_turma58870/main/meme/revert_commit_meme.jpg" alt="badge" />
+
