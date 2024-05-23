@@ -1,5 +1,7 @@
 # Curso de Python da CODERHOUSE
 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 Este repositório contém materiais, aulas e atividades relacionadas ao curso de Python oferecido pela CODERHOUSE. Aqui você encontrará recursos para aprender e praticar Python, desde conceitos básicos até tópicos mais avançados de acordo com minha evolução durante o curso.
 
 ## Conteúdo
@@ -24,4 +26,3 @@ Se você deseja contribuir com este repositório, siga estas etapas:
 4. Envie um pull request.
 
 Vamos aprender Python juntos! 🐍
-<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/" alt="badge" />
