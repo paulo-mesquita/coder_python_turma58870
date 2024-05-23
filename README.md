@@ -24,4 +24,4 @@ Se você deseja contribuir com este repositório, siga estas etapas:
 4. Envie um pull request.
 
 Vamos aprender Python juntos! 🐍
-<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/" alt="badge" />
+<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/coder_python_turma58870/main/meme/revert_commit_meme.jpg" alt="badge" />
