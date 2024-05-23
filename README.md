@@ -2,6 +2,7 @@
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+<img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/coder_python_turma58870/main/meme/revert_commit_meme.jpg" alt="badge" />
 Este repositório contém materiais, aulas e atividades relacionadas ao curso de Python oferecido pela CODERHOUSE. Aqui você encontrará recursos para aprender e praticar Python, desde conceitos básicos até tópicos mais avançados de acordo com minha evolução durante o curso.
 
 ## Conteúdo
