@@ -27,3 +27,6 @@ Se você deseja contribuir com este repositório, siga estas etapas:
 4. Envie um pull request.
 
 Vamos aprender Python juntos! 🐍
+
+
+## Show @Paulo
