@@ -1,4 +1,6 @@
-# Configuração do Ambiente Virtual e Criação do Arquivo `requirements.txt`
+# Documentação - Projeto Final (Projeto PokéAPI)
+
+## Configuração do Ambiente Virtual e Criação do Arquivo `requirements.txt`
 
 Este script Python automatiza a configuração de um ambiente virtual e a geração do arquivo `requirements.txt`, listando as bibliotecas necessárias para o seu projeto, juntamente com suas versões específicas. Executar este script é essencial antes de prosseguir com o desenvolvimento, garantindo um ambiente consistente e controlado para suas dependências.
 
