@@ -41,6 +41,7 @@ Este projeto utiliza a PokéAPI para fornecer informações detalhadas sobre Pok
   - requests
   - plyer
   - pygame
+  - logging
 
 ## Estrutura de Pastas
 
