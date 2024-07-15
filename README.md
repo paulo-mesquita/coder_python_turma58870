@@ -9,8 +9,7 @@ Este repositório contém materiais, aulas e atividades relacionadas ao curso de
 
 - Aulas
 - Atividades
-- Recursos
-- Como Contribuir
+- Projeto Final: [Projeto PokéAPI](https://github.com/paulo-mesquita/coder_python_turma58870/tree/main/Projeto_Final/Segunda_Entrega_Parcial)
 
 ## Recursos
 
@@ -27,6 +26,5 @@ Se você deseja contribuir com este repositório, siga estas etapas:
 4. Envie um pull request.
 
 Vamos aprender Python juntos! 🐍
-
 
 ## Show @Paulo
